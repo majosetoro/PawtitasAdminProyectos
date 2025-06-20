@@ -5,7 +5,8 @@
 **Versión 2.0 - (20/06/2025):** Reorganización significativa del documento y centralización de la información. Eliminación de archivos redundantes   
 **Versión 2.1 - (20/06/2025):** Agregar Análisis de Interesados (Skateholders)   
 **Versión 2.2 - (20/06/2025):** Agregar Metodología Ágil   
-**Versión 2.3 - (20/06/2025):** Agregar Análisis de requerimientos con historias de usuario
+**Versión 2.3 - (20/06/2025):** Agregar Análisis de requerimientos con historias de usuario   
+**Versión 2.4 - (20/06/2025):** Agregar requerimientos técnicos en el apartado Análisis de Requerimientos
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -58,4 +59,10 @@ Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kan
 **HU-04:** Como prestador de servicio, quiero editar mi perfil para ser visible en la app.   
 **HU-05:** Como cliente, quiero buscar prestadores por disponibilidad para contratar un servicio.   
 **HU-06:** Como administrador, quiero aprobar cuentas antes de que estén visibles para garantizar mayor seguridad en la app.   
+
+### Requerimientos Técnicos
+- Firebase Auth
+- MySQL
+- React Native (Expo)
+
 
