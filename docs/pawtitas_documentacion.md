@@ -1,6 +1,8 @@
-# Objetivo General del Proyecto
-**Versión:** 1.0   
-**Fecha:** 20/06/2025
+# Proyecto Pawtitas
+
+## Historial de Versiones
+**Versión 1.0 - (20/06/2025):** Versión inicial     
+**Versión 2.0 - (20/06/2025):** Reorganización significativa del documento y centralización de la información. Eliminación de archivos redundantes.
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
