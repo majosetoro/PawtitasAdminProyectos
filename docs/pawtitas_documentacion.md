@@ -2,7 +2,8 @@
 
 ## Historial de Versiones
 **Versión 1.0 - (20/06/2025):** Versión inicial     
-**Versión 2.0 - (20/06/2025):** Reorganización significativa del documento y centralización de la información. Eliminación de archivos redundantes.
+**Versión 2.0 - (20/06/2025):** Reorganización significativa del documento y centralización de la información. Eliminación de archivos redundantes   
+**Versión 2.1 - (20/06/2025):** Agregar Análisis de Interesados (Skateholders)
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -22,3 +23,12 @@ Diseñar y desarrollar una aplicación móvil que conecte de forma segura y efic
 - **KR3:** Registrar al menos 5 usuarios y 3 prestadores con perfiles completos validados por un administrador.
 - **KR4:** Implementar el panel de administrador con funciones básicas (validar y desactivar cuentas) en la semana 5.
 - **KR5:** Tener el tablero de proyecto actualizado con al menos 3 milestones y 6 historias de usuario distribuidas.
+
+## Análisis de Interesados
+
+### Skateholders
+**1. Cliente - Dueño de mascota:** Encontrar servicios confiables para sus mascotas   
+**2. Prestador de Servicio:** Ser encontrado por clientes y ofrecer servicios   
+**3. Administrador:** Acceso al panel de gestión, validación/rechazo de cuentas de usuarios   
+**4. Equipo de Desarrollo:** Cumplir objetivos técnicos y planificación ágil 
+
