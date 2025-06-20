@@ -4,6 +4,7 @@
 **Versión 1.0 - (20/06/2025):** Versión inicial     
 **Versión 2.0 - (20/06/2025):** Reorganización significativa del documento y centralización de la información. Eliminación de archivos redundantes   
 **Versión 2.1 - (20/06/2025):** Agregar Análisis de Interesados (Skateholders)
+**Versión 2.2 - (20/06/2025):** Agregar Metodología Ágil
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -32,3 +33,18 @@ Diseñar y desarrollar una aplicación móvil que conecte de forma segura y efic
 **3. Administrador:** Acceso al panel de gestión, validación/rechazo de cuentas de usuarios   
 **4. Equipo de Desarrollo:** Cumplir objetivos técnicos y planificación ágil 
 
+## Metodología Ágil
+Enfoques seleccionados: 
+#### **SCRUM**
+- Permite un desarrollo iteractivo e incremental
+- Ideal para equipos pequeños que trabajan en un MVP
+- Mejora continua
+
+#### **KANBAN**
+- Uso de **GitHub Projects** como tablero visual
+- Cada historia de Usuario es presentado por tarjetas (issues)
+- Permite flexibilidad adicional ante cambios menores sin necesidad de modificar todo el sprint
+
+### Justificación de la Metodología Híbrida
+
+Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kanban debido a la necesidad de mantener una estructura de trabajo ordenada y con roles definidos, al mismo tiempo que requeríamos flexibilidad para adaptarnos a cambios frecuentes y tareas imprevistas propias del desarrollo de un MVP.
