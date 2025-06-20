@@ -6,7 +6,8 @@
 **Versión 2.1 - (20/06/2025):** Agregar Análisis de Interesados (Skateholders)   
 **Versión 2.2 - (20/06/2025):** Agregar Metodología Ágil   
 **Versión 2.3 - (20/06/2025):** Agregar Análisis de requerimientos con historias de usuario   
-**Versión 2.4 - (20/06/2025):** Agregar requerimientos técnicos en el apartado Análisis de Requerimientos
+**Versión 2.4 - (20/06/2025):** Agregar requerimientos técnicos en el apartado Análisis de Requerimientos   
+**Versión 2.5 - (20/06/2025):** Agregar link del tablero de gestión   
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -65,4 +66,6 @@ Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kan
 - MySQL
 - React Native (Expo)
 
-
+## Tablero
+A continuación, se adjunta el tablero de gestión realizado en **GitHub Projects** para llevar a cabo este proyecto.      
+Link: https://github.com/users/majosetoro/projects/4/views/1
