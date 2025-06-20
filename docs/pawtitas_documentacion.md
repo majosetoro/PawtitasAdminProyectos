@@ -3,8 +3,9 @@
 ## Historial de Versiones
 **Versión 1.0 - (20/06/2025):** Versión inicial     
 **Versión 2.0 - (20/06/2025):** Reorganización significativa del documento y centralización de la información. Eliminación de archivos redundantes   
-**Versión 2.1 - (20/06/2025):** Agregar Análisis de Interesados (Skateholders)
-**Versión 2.2 - (20/06/2025):** Agregar Metodología Ágil
+**Versión 2.1 - (20/06/2025):** Agregar Análisis de Interesados (Skateholders)   
+**Versión 2.2 - (20/06/2025):** Agregar Metodología Ágil   
+**Versión 2.3 - (20/06/2025):** Agregar Análisis de requerimientos con historias de usuario
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -48,3 +49,13 @@ Enfoques seleccionados:
 ### Justificación de la Metodología Híbrida
 
 Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kanban debido a la necesidad de mantener una estructura de trabajo ordenada y con roles definidos, al mismo tiempo que requeríamos flexibilidad para adaptarnos a cambios frecuentes y tareas imprevistas propias del desarrollo de un MVP.
+
+## Análisis de Requerimientos
+### Historias de Usuario (HU)
+**HU-01:** Como usuario, quiero poder registrarme con email y contraseña para usar la app.   
+**HU-02:** Como usuario, quiero iniciar sesión para navegar la app o brindar mis servicios.   
+**HU-03:** Como cliente, quiero registrar mis mascotas con nombre, edad, especie y raza, para que los prestadores de servicio conozcan su información   
+**HU-04:** Como prestador de servicio, quiero editar mi perfil para ser visible en la app.   
+**HU-05:** Como cliente, quiero buscar prestadores por disponibilidad para contratar un servicio.   
+**HU-06:** Como administrador, quiero aprobar cuentas antes de que estén visibles para garantizar mayor seguridad en la app.   
+
