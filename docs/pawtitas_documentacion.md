@@ -8,7 +8,8 @@
 **Versión 2.3 - (20/06/2025):** Agregar Análisis de requerimientos con historias de usuario   
 **Versión 2.4 - (20/06/2025):** Agregar requerimientos técnicos en el apartado Análisis de Requerimientos   
 **Versión 2.5 - (20/06/2025):** Agregar link del tablero de gestión   
-**Versión 2.6 - (20/06/2025):** Creacción de sección 'Registro de Cambios' y agrego cambio menor en HU-03    
+**Versión 2.6 - (21/06/2025):** Creacción de sección 'Registro de Cambios' y agrego cambio menor en HU-03   
+**Versión 2.7 - (21/06/2025):** Ajuste metodológico: implementación de etiquetas visuales para clasificación de cambios (`cambio menor`, `cambio funcional`, `cambio urgente`)   
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -53,6 +54,18 @@ Enfoques seleccionados:
 
 Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kanban debido a la necesidad de mantener una estructura de trabajo ordenada y con roles definidos, al mismo tiempo que requeríamos flexibilidad para adaptarnos a cambios frecuentes y tareas imprevistas propias del desarrollo de un MVP.
 
+### Adaptación de Metodología Aplicada
+**Fecha:** 21/06/2025   
+**Situación detectada:** Durante el desarrollo del MVP se detectó la necesidad de mejorar la gestión de cambios menores (como ajustes de texto o formularios). Para evitar demoras, se incorporó un sistema de clasificación visual de cambios en el tablero Kanban, utilizando etiquetas:
+
+**Ajuste aplicado:**   
+Se implementó un sistema de clasificación y gestión de cambios con etiquetas visuales en el tablero, diferenciando:   
+- Cambio menor: no requiere revisión formal, lo aprueba el desarrollador   
+- Cambio funcional: requiere validación del equipo   
+- Cambio urgente: se atiende con prioridad máxima   
+
+Esto agiliza la gestión, reduce fricción en tareas simples y mantiene la trazabilidad.
+
 ## Análisis de Requerimientos
 ### Historias de Usuario (HU)
 **HU-01:** Como usuario, quiero poder registrarme con email y contraseña para usar la app.   
@@ -83,3 +96,12 @@ Link: https://github.com/users/majosetoro/projects/4/views/1
 - Documentado en el presente documento  
 - Actualización de la historia HU-03 en el presente documento   
 - Se crea una tarjeta en el tablero de GitHub Projects
+
+
+**Fecha:** 21/06/2025   
+**Versión afectada:** v2.7   
+**Tipo de cambio:** Metodológico   
+**Descripción:** Se propone implementar un sistema de clasificación para los tipos de cambio a través de etiquetas visuales (cambio menor, cambio funcional, cambio urgente).    
+**Motivo:** Mejorar la eficiencia en la toma de decisiones respecto a ajustes no críticos.   
+**Resolución:** Aprobado y aplicado en el tablero de GitHub Projects.   
+
