@@ -8,6 +8,7 @@
 **Versión 2.3 - (20/06/2025):** Agregar Análisis de requerimientos con historias de usuario   
 **Versión 2.4 - (20/06/2025):** Agregar requerimientos técnicos en el apartado Análisis de Requerimientos   
 **Versión 2.5 - (20/06/2025):** Agregar link del tablero de gestión   
+**Versión 2.6 - (20/06/2025):** Creacción de sección 'Registro de Cambios' y agrego cambio menor en HU-03    
 
 ## Objetivo SMART
 Diseñar y desarrollar antes del 30 de julio de 2025 una aplicación móvil para conectar dueños de mascotas con prestadores de servicios (cuidadores, paseadores y veterinarios), validando usuarios por autenticación y roles diferenciados, bajo un entorno seguro y accesible.
@@ -56,7 +57,7 @@ Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kan
 ### Historias de Usuario (HU)
 **HU-01:** Como usuario, quiero poder registrarme con email y contraseña para usar la app.   
 **HU-02:** Como usuario, quiero iniciar sesión para navegar la app o brindar mis servicios.   
-**HU-03:** Como cliente, quiero registrar mis mascotas con nombre, edad, especie y raza, para que los prestadores de servicio conozcan su información   
+**HU-03:** Como cliente, quiero registrar mis mascotas con nombre, edad, especie, raza y peso, para que los prestadores de servicio conozcan su información   
 **HU-04:** Como prestador de servicio, quiero editar mi perfil para ser visible en la app.   
 **HU-05:** Como cliente, quiero buscar prestadores por disponibilidad para contratar un servicio.   
 **HU-06:** Como administrador, quiero aprobar cuentas antes de que estén visibles para garantizar mayor seguridad en la app.   
@@ -69,3 +70,16 @@ Se optó por una metodología ágil híbrida combinando Scrum y elementos de Kan
 ## Tablero
 A continuación, se adjunta el tablero de gestión realizado en **GitHub Projects** para llevar a cabo este proyecto.      
 Link: https://github.com/users/majosetoro/projects/4/views/1
+
+## Registro de cambios
+
+**Fecha:** 21/06/2025  
+**Versión afectada:** v2.6   
+**Historia afectada:** HU-03  
+**Cambio realizado:** Se agrega el campo 'peso' al formulario registro de mascotas.  
+**Motivo:** Mejora la información disponible para los prestadores de servicio al momento de aceptar solicitudes.  
+**Tipo de cambio:** Cambio menor (no afecta lógica funcional crítica)  
+**Gestión:**  
+- Documentado en el presente documento  
+- Actualización de la historia HU-03 en el presente documento   
+- Se crea una tarjeta en el tablero de GitHub Projects
